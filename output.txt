@@ -1,1 +1,3 @@
-Invalid Number Marks
+Congratulations!! You have Passed
+You have got A+ Grade
+Congratulations!! You have got Scholarship

@@ -12,7 +12,11 @@ int main()
 
     if (marks >= 80 && marks <= 100)
     {
-      printf("You have got A+ Grade");
+      printf("You have got A+ Grade\n");
+      if (marks >= 90)
+      {
+        printf("Congratulations!! You have got Scholarship");
+      }
     }
     else if (marks >= 70 && marks <= 79)
     {
