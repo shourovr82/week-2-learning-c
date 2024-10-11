@@ -1,4 +1,48 @@
-Even: 3
-Odd: 2
-Positive: 1
-Negative: 3
+0
+Line 1
+Line 2
+Line 3
+Line 4
+1
+Line 1
+Line 2
+Line 3
+Line 4
+2
+Line 1
+Line 2
+Line 3
+Line 4
+3
+Line 1
+Line 2
+Line 3
+Line 4
+4
+Line 1
+Line 2
+Line 3
+Line 4
+5
+Line 1
+Line 2
+6
+Line 1
+Line 2
+Line 3
+Line 4
+7
+Line 1
+Line 2
+Line 3
+Line 4
+8
+Line 1
+Line 2
+Line 3
+Line 4
+9
+Line 1
+Line 2
+Line 3
+Line 4
