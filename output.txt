@@ -1,48 +1,7 @@
-0
-Line 1
-Line 2
-Line 3
-Line 4
-1
-Line 1
-Line 2
-Line 3
-Line 4
-2
-Line 1
-Line 2
-Line 3
-Line 4
-3
-Line 1
-Line 2
-Line 3
-Line 4
-4
-Line 1
-Line 2
-Line 3
-Line 4
-5
-Line 1
-Line 2
-6
-Line 1
-Line 2
-Line 3
-Line 4
-7
-Line 1
-Line 2
-Line 3
-Line 4
-8
-Line 1
-Line 2
-Line 3
-Line 4
-9
-Line 1
-Line 2
-Line 3
-Line 4
+      1
+     12
+    123
+   1234
+  12345
+ 123456
+1234567
