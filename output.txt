@@ -1,1 +1,1 @@
-a b d c e 
+Minimum= 10, Maximum= 300
